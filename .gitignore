@@ -1,0 +1,16 @@
+# Full Name  : Sahil Hareshbhai Patel
+# Student ID#: 173793225
+# Email      : shpatel27@myseneca.ca 
+# -----------------------------------------------------------
+
+#Vscode Files
+.vscode
+
+#Virtual Env Files
+env
+
+#Files Downloaded For Testing
+*.mp4
+
+#Test Downloads
+test

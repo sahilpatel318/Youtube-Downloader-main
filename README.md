@@ -1,2 +1,2 @@
-# Youtube-Downloader-main
-This project is created solely for educational use. It is not intended to violate any copyright laws. The purpose behind its creation is strictly for learning and educational understanding.
+# Youtube-Downloader
+This project is meant for educational purposes only. It is not to be used to infringe on any copyright laws. The intention for making this is purely educational.
